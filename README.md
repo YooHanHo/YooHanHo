@@ -2,14 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=welcome%20&fontSize=90" />
 
-![Han ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
-
-
 # 🙋‍♂ Personal Info
 - Yoo Han Ho
 - dbgksgh98@naver.com
-- https://www.instagram.com/limited_ho
+- https://www.instagram.com/limited_ho 
 
 
 
