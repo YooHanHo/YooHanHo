@@ -4,10 +4,10 @@
 
 # 🙋‍♂ Personal Info
 - Yoo Han Ho
-- dbgksgh98@naver.com
+- dbgksgh98@naver.com 
 - https://www.instagram.com/limited_ho 
 
-
+![YooHanHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooHanHo&show_icons=true&theme=transparent)
 
 # 💪Skills
 ### Platforms & Languages
